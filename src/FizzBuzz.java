@@ -8,7 +8,7 @@ class FizzBuzz {
 
         while(i < 100) {
 
-            i = doFizzBuzz(i);
+            i= doFizzBuzz(i);
         }
     }
 
