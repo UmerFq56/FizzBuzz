@@ -21,7 +21,7 @@ You can do this by clicking the green `Code` button in your FizzBuzz repository 
 the HTTPS URL which you will see. You can copy it by clicking the little 'copy' button with the two rectangles on it.
 
 4. Open IntelliJ. If you already have a project open, close that project. From the main screen, choose
-the "Get From VCS" option.
+the "Get From VCS" option.jjj
 5. In the menu that appears, paste the URL. You can either use the default location on your computer to save the project
 or you can choose the directory.
     - Note: if you later make another clone of this repository, it will require you to choose a new directory to save it to,
